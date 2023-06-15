@@ -8,20 +8,32 @@
     height: 700px;
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    font-family: 'Raleway', sans-serif;
 }
 #tituloportada {
     height: 100%;
     background-repeat: no-repeat;
     background-size: 100% 100%;
     color: aliceblue;
+    font-family: 'Raleway', sans-serif;
 }
 #Educacion {
     height: 300px;
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    font-family: 'Raleway', sans-serif;
 }
 #Experiencia {
     height: 300px;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    font-family: 'Raleway', sans-serif;
+}
+#navbarSupportedContent {
+    font-family: 'Raleway', sans-serif;
+}
+#contactame {
+    font-family: 'Raleway', sans-serif;
+}
+footer {
+    font-family: 'Raleway', sans-serif;
 }
